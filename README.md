@@ -1,3 +1,6 @@
+MAIL: c.gonzalezcontrera@gmail.com
+contraseña: 123456
+
 # desafio-uno
 
 ## Project setup
